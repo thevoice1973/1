@@ -15,23 +15,6 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-weblinks-.feed-update
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: 21448dfdb06aab229e2fda9870887cd6
-Size: 996
-Filename: enigma2-plugin-weblinks-.feed-update_eliesat_all.ipk
-Description: update eliesat feed
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
 Package: enigma2-plugin-weblinks-2.0-ajpanel-backup-restore
 Version: eliesat
 Depends: enigma2
@@ -738,6 +721,23 @@ MD5Sum: 5495df784b213eef5d0d3b0646abcd8e
 Size: 3109596
 Filename: enigma2-plugin-weblinks-cam-oscam_eliesat_all.ipk
 Description: oscam to all images OE2.0 (Patched and Build by linuxsat)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-feeds-runner
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 93889f2616cdfe6242f0f8f4baae6fe0
+Size: 1014
+Filename: enigma2-plugin-weblinks-feeds-runner_eliesat_all.ipk
+Description: update eliesat feeds
 Maintainer: eliesat
 Priority: optional
 Source: none
