@@ -270,6 +270,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-2.0-fonts
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d53594ca4d2b3ef120635dba5b51a8b6
+Size: 1040
+Filename: enigma2-plugin-weblinks-2.0-fonts_eliesat_all.ipk
+Description: add new fonts to your box
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-weblinks-2.0-footonsat
 Version: eliesat
 Depends: enigma2
@@ -389,6 +406,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-2.0-runningtext
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: a7e42d3d6f71ee079b5bfe1362612d34
+Size: 1058
+Filename: enigma2-plugin-weblinks-2.0-runningtext_eliesat_all.ipk
+Description: fix letters recommended for some skins
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-weblinks-2.0-service-scan-updates
 Version: eliesat
 Depends: enigma2
@@ -415,6 +449,23 @@ MD5Sum: a9a3f4f7eb586af3d9e06c44f812a555
 Size: 1066
 Filename: enigma2-plugin-weblinks-2.0-setpicon_eliesat_all.ipk
 Description: set picon to service
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-2.0-subssupport
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: ca2d473c716d9cb05616cb8d954675fa
+Size: 1088
+Filename: enigma2-plugin-weblinks-2.0-subssupport_eliesat_all.ipk
+Description: download and add subtitles online
 Maintainer: eliesat
 Priority: optional
 Source: none
