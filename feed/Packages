@@ -445,8 +445,8 @@ Version: eliesat
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: ca2d473c716d9cb05616cb8d954675fa
-Size: 1088
+MD5Sum: 1c1771938b86e311bc9f6f12d48046d1
+Size: 1090
 Filename: enigma2-plugin-weblinks-2.0-subssupport_eliesat_all.ipk
 Description: download and add subtitles online
 Maintainer: eliesat
@@ -734,10 +734,10 @@ Version: eliesat
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: 93889f2616cdfe6242f0f8f4baae6fe0
-Size: 1014
+MD5Sum: d1132d158000b89fd440927c04c91b36
+Size: 1054
 Filename: enigma2-plugin-weblinks-feeds-runner_eliesat_all.ipk
-Description: update eliesat feeds
+Description: install eliesat feeds
 Maintainer: eliesat
 Priority: optional
 Source: none
