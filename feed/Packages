@@ -491,6 +491,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-2.0-tuneinradio
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 9faeb455da966d7a56c4ce862e8bd4b6
+Size: 1078
+Filename: enigma2-plugin-weblinks-2.0-tuneinradio_eliesat_all.ipk
+Description: listen to your favorite radio
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-weblinks-2.0-usb-drivers
 Version: eliesat
 Depends: enigma2
