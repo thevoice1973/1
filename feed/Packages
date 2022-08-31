@@ -20,8 +20,8 @@ Version: eliesat
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: fa4dae4f065ca36602bc756937f0f808
-Size: 970
+MD5Sum: ab9b249d377f829a8f2bd57b1c2e935d
+Size: 1064
 Filename: enigma2-plugin-weblinks-2.0-ajpanel-backup-restore_eliesat_all.ipk
 Description: ajpanel update file and settings backup folder
 Maintainer: eliesat
