@@ -37,8 +37,8 @@ Version: eliesat
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: f15382a232d88c2752d023023c471eac
-Size: 1088
+MD5Sum: 06f144025468d581c228cd3414e64306
+Size: 1090
 Filename: enigma2-plugin-weblinks-2.0-ajpanel-xml_eliesat_all.ipk
 Description: download and install frequencies xml file
 Maintainer: eliesat
