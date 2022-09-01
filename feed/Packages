@@ -950,6 +950,57 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-radio-logo4
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: bcb88cb6946224f27e3ec5f80bec399c
+Size: 1096
+Filename: enigma2-plugin-weblinks-radio-logo4_eliesat_all.ipk
+Description: change your radio service background picture
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-radio-logo5
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 7443019a6227fa866bbc0772a14fb6ae
+Size: 1094
+Filename: enigma2-plugin-weblinks-radio-logo5_eliesat_all.ipk
+Description: change your radio service background picture
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-radio-logo6
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: a956fbbf41aef6ed52c97aae655a052d
+Size: 1096
+Filename: enigma2-plugin-weblinks-radio-logo6_eliesat_all.ipk
+Description: change your radio service background picture
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-weblinks-skin-metrix-fhd
 Version: eliesat
 Depends: enigma2
