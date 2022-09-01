@@ -37,10 +37,10 @@ Version: eliesat
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: 06f144025468d581c228cd3414e64306
-Size: 1090
+MD5Sum: 3cc70e47b96497929acb70850df31c09
+Size: 1110
 Filename: enigma2-plugin-weblinks-2.0-ajpanel-xml_eliesat_all.ipk
-Description: download and install frequencies xml file
+Description: download and install xml frequencies file (sat-lb terrestrial bouquets)
 Maintainer: eliesat
 Priority: optional
 Source: none
@@ -891,6 +891,57 @@ MD5Sum: 1c9a0100c8af78feaa84ded2956fde32
 Size: 1098
 Filename: enigma2-plugin-weblinks-picon-prov-crypt-cam-emu_eliesat_all.ipk
 Description: recommended for some skins and raedquicksignal plugin
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-radio-logo1
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: a261c8e12779e51f1f28438b5cdb56a3
+Size: 1098
+Filename: enigma2-plugin-weblinks-radio-logo1_eliesat_all.ipk
+Description: change your radio service background picture
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-radio-logo2
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 41a765019bc5c16f01e6c9e53688d05e
+Size: 1096
+Filename: enigma2-plugin-weblinks-radio-logo2_eliesat_all.ipk
+Description: change your radio service background picture
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-radio-logo3
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d13b0e7b64fa1310bd28b405700652ac
+Size: 1096
+Filename: enigma2-plugin-weblinks-radio-logo3_eliesat_all.ipk
+Description: change your radio service background picture
 Maintainer: eliesat
 Priority: optional
 Source: none
