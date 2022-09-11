@@ -32,6 +32,21 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-2.0-ajpanel-ipkg-tools
+Version: eliesat
+Section: weblinks
+Architecture: all
+MD5Sum: c70e98f6ade593bf87fbfdd8c981807c
+Size: 354442
+Filename: enigma2-plugin-weblinks-2.0-ajpanel-ipkg-tools_eliesat_all.ipk
+Description: pack unpack your ipk packages
+Maintainer: Hendrik Leesch
+Priority: optional
+Source: none
+Homepage: none
+OE: enigma2
+
+
 Package: enigma2-plugin-weblinks-2.0-ajpanel-xml
 Version: eliesat
 Depends: enigma2
