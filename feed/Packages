@@ -81,6 +81,20 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-2.0-alajre
+Version: eliesat
+Section: external
+Architecture: all
+MD5Sum: ff38c5d1d2f10fc6987b08c8fd5a5d6d
+Size: 2393820
+Filename: enigma2-plugin-weblinks-2.0-alajre_eliesat_all.ipk
+Description: alajre-by-aime-jeux
+Maintainer: AbouYacine
+Priority: optional
+Source: 
+Homepage: 
+
+
 Package: enigma2-plugin-weblinks-2.0-arabic-converter
 Version: eliesat
 Depends: enigma2
